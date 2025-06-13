@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ## 🚀 Usage
 
 ```bash
-python pass.py
+python vaultguard.py
 ```
 
 ### 🔐 Encryption Example
@@ -72,7 +72,7 @@ my super bitcoin seed
 
 ```
 btc-password-vault/
-├── pass.py               # Main script
+├── vaultguard.py         # Main script
 ├── requirements.txt      # Python dependencies
 └── README.md             # This file
 ```
